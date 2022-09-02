@@ -37,5 +37,5 @@
 
 - [GitHub 上的小组仓库](https://github.com/deepin-community/sig-deepin-hvml)
 - [HVML](https://github.com/HVML)
-- [如何在deepin上使用HVML]()
+- [如何在deepin上使用HVML](https://github.com/deepin-community/sig-deepin-hvml/blob/master/%E4%BD%BF%E7%94%A8%E5%AE%89%E8%A3%85.md)
 
