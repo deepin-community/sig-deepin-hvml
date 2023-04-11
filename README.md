@@ -22,7 +22,7 @@
 
 1. 在[sig-deepin-hvml ](https://github.com/deepin-community/sig-deepin-hvml/issues)提交issues 说明想加入的原因
 2. 订阅邮件列表
-
+3. 加入[matrix](https://matrix.to/#/#hvml-sig:deepin.org)
 ## 小组章程
 
 * 请详细阅读相关文档[hvml-docs](https://github.com/HVML/hvml-docs/blob/master/en/an-introduction-to-hvml-en.md)
